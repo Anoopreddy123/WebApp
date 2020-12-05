@@ -1,0 +1,93 @@
+.Header1{
+  background-color: grey;
+  text-align: left;
+  background-color: grey;
+ text-align: center;
+  background-repeat: no-repeat;
+ background-size: 100% 100%;
+  padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+   padding-left: 20px;
+  margin:,100 ,100 ,100 ,100;
+}
+h1{
+  color:black;
+  opacity:1.0;
+}
+.Header1 p{
+text-align: left;
+}
+.section
+{
+  background: black;
+ text-indent: 50px;
+  padding-top: 20px;
+  padding-left: 0px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  text-align: center;
+
+}
+.section a{
+  color: white;
+  float: left;
+  text-decoration: none;
+
+}
+.Middle{
+  background: white;
+
+}
+img{
+  width: 100%;
+  border-style: double;
+
+}
+.mid1{
+  width:20%;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+
+  display:inline-block;
+  border-style: double;
+}
+footer{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: violet;
+  background-color: black;
+}
+a:hover{
+
+  color: white;
+
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
